@@ -1,4 +1,4 @@
-#  Gitflow Lab 5 - Develop Version
+# Gitflow Lab 5
 
 This project demonstrates Gitflow,
 branches, commits, merging, and conflict resolution.
